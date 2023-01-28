@@ -1,2 +1,5 @@
-var test= "css,html,js,git";
-console.log(test);
+
+var circle= ["box","rectangle","square","oblong"];
+for(i=0;i , i < circle.length;i++){
+    console.log(circle[i]);
+}
